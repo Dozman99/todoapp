@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "env\\Scripts\\python.exe",
+  "editor.defaultFormatter": "himanoa.Python-autopep8",
+  "editor.formatOnSave": true
+}
